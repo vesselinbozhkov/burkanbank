@@ -26,6 +26,7 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
  				.html('Не работи на мобилни устройства.');
 }
 
+
 var $fibankImg = $('#fibank-img');
 var $gameWrapper = $('#game-wrapper');
 var $coin = $('#coin');
